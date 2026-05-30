@@ -1,0 +1,9 @@
+{
+  "latestVersion": "1.0.1",
+  "latestVersionCode": 2,
+  "minimumVersionCode": 1,
+  "title": "Brickhouse App Update Available",
+  "message": "A newer Brickhouse app is available. Please download and install the latest APK.",
+  "downloadUrl": "https://github.com/knowland-blip/brickhouse-apk/releases/latest/download/Brickhouse.apk",
+  "forceUpdate": false
+}
